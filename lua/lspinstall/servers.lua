@@ -9,6 +9,7 @@ local servers = {
   ["dockerfile"] = require'lspinstall/servers/dockerfile',
   ["efm"] = require'lspinstall/servers/efm',
   ["elixir"] = require'lspinstall/servers/elixir',
+  ["erlang"] = require'lspinstall/servers/erlang',
   ["go"] = require'lspinstall/servers/go',
   ["graphql"] = require'lspinstall/servers/graphql',
   ["html"] = require'lspinstall/servers/html',

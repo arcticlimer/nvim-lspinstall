@@ -66,6 +66,7 @@ end
 | css         | css-language-features (pulled directly from the latest VSCode release)      |
 | dockerfile  | docker-langserver                                                           |
 | elixir      | Elixir Language Server (elixir-ls)                                          |
+| erlang      | Erlang Language Server (erlang_ls)                                          |
 | go          | gopls                                                                       |
 | graphql     | GraphQL language service                                                    |
 | html        | html-language-features (pulled directly from the latest VSCode release)     |
